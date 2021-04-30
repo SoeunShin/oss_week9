@@ -16,3 +16,4 @@ Here is my email! : <sshin990819@gmail.com>
 1. 음악
 2. 연어초밥
 3. 여행
+4. 강아지
